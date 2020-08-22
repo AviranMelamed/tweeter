@@ -98,4 +98,4 @@ console.log(tweeter.getPosts())
 tweeter.removeComment("p2", "c6")
 console.log(tweeter.getPosts())
 //This comment should be removed:
-//{id: "c6", text: "Haha second place what a joke."}
+//{id: "c6", text: "Haha second place what a joke."}fdsafads
